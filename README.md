@@ -1,3 +1,3 @@
-#New Projects
+#New Project
 
 Adding New Project Locallay
